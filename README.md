@@ -14,7 +14,7 @@ print(tuple1[3])            #h
 #Deleting different dictionary elements
 mydict={"A":"Alpha","B":"Beta","C":"Cupcake"}
 del mydict["C"]
-print(mydict)
+print(mydict)              #mydict={"A":"Alpha","B":"Beta"}
 
 
 
